@@ -12,7 +12,7 @@
 class Foobar // (2)
 {
     public:
-        void funky();
+        void funky(); // (3)
 
     private:
         int m_baz; // (1)
