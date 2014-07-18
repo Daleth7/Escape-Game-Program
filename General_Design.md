@@ -1,5 +1,6 @@
 Description:
   * A large cube made up of smaller cubes or rooms each of which may contain a test, prize, clue or item. Each room has 6 doors ( up, down, north, south, east, west ). One exit lies on the exterior of the cube winning condition requires you to get to this exit. After a certain time (number of turns or a clock feature) segement of the cube move (think of rotating sections of a rubix cube) or on cetain events rotating the entire cube. The players job to orientate themselves and find where the exit lies and keep track of where they currently are in the cube and get to the exit.
+
 * General:
   * This is going to be a single player, point-and-click escape game.
   * The goal of the player is to escape this mysterious location he/she has been placed in. There is only one exit.
