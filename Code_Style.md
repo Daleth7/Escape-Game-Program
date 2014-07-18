@@ -1,4 +1,4 @@
-1. All class members will be prefixed with "m_"
+1. All class data members will be prefixed with "m_"
 2. Class names will start uppercased
 3. All class member definitions shall be kept in another file while the class definition shows only member declarations.
 
